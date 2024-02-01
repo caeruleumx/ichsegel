@@ -9,7 +9,7 @@ name: Ich Segel!
 author: Benedikt
 
 # Short bio or description (displayed in the header)
-description: ein kleiner Segel Blog.
+description: ein kleiner Segel Blog. ⛵️
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -78,7 +78,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 plugins:
