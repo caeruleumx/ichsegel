@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über "Segeln und ich"
+title: Über "Ich Segel!"
 permalink: /about/
 ---
 

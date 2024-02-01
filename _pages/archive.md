@@ -26,8 +26,8 @@ title: Posts Archive
           {% endif %}
           {% endunless %}
           <p><b><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></b> - {% if post.date and post.date != "" %}{{ post.date | date: "%e %B %Y" }}{%endif%}</p>
-          {% endfor %}
       </ul>
+      {% endfor %}
     <h3>Oldest Posts</h3>
   </section>
 </div>
