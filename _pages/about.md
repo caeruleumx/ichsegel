@@ -11,6 +11,7 @@ Ich habe das Hobby "Segeln" für mich entdeckt, aber mir fehlt noch Erfahrung.
 
 # Über diese Website
 Auf dieser Website findet man meine Notizen zum Thema Segeln.
+
 Sie besteht aus 2 Teilen:
 
 ## Berichte/Notizen
