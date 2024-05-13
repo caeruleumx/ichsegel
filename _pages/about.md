@@ -6,6 +6,7 @@ permalink: /about/
 
 # Über mich
 Moin, Benedikt hier 👋🏻.
+
 Ich habe das Hobby "Segeln" für mich entdeckt, aber mir fehlt noch Erfahrung.
 
 # Über diese Website
