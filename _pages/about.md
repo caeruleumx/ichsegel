@@ -5,13 +5,11 @@ permalink: /about/
 ---
 
 # Über mich
-Moin, Benedikt hier 👋🏻.
-
+Moin, Benedikt hier 👋🏻.<br>
 Ich habe das Hobby "Segeln" für mich entdeckt, aber mir fehlt noch Erfahrung.
 
 # Über diese Website
-Auf dieser Website findet man meine Notizen zum Thema Segeln.
-
+Auf dieser Website findet man meine Notizen zum Thema Segeln.<br>
 Sie besteht aus 2 Teilen:
 
 ## Berichte/Notizen
