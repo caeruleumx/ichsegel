@@ -89,6 +89,11 @@ plugins:
 
 include: ['_pages']
 
+# for the wiki add:
+collections:
+  wiki:
+    output: true
+
 paginate: 6
 paginate_path: /page:num/
 

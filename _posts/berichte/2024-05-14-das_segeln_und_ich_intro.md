@@ -5,26 +5,26 @@ categories: [Miscellaneous, Notizen]
 ---
 
 # Über mich
-Moin, Benedikt hier 👋🏻.
+Moin, Benedikt hier 👋🏻.<br>
 Ich habe das Hobby "Segeln" für mich entdeckt, aber mir fehlt noch Erfahrung.
 
 # Warum dieser Blog?
-Für mich als Notizen, Nachschlagewerk für gelernte Sachen rund ums Thema Segeln.
+Für mich als Notizen, Nachschlagewerk für gelernte Sachen rund ums Thema Segeln.<br>
 Vielleicht für Andere interessant/nützlich.
 
 # Was bedeutet Segeln für mich?
 - Urlaubs-Hobby
 - Entspannung
 
-Einfach abschalten, raus aus der digitalen Welt und mit offenen Augen in die Natur.
+Einfach abschalten, raus aus der digitalen Welt und mit offenen Augen in die Natur.<br>
 Zudem habe ich auf dem Wasser nicht so sehr Probleme mit dem Heuschnupfen.
 
 ## Warum bin ich in einem Segelverein?
-Ehrlich gesagt bin ich da einfach reingerutscht ... 
+Ehrlich gesagt bin ich da einfach reingerutscht ... <br>
 Zwei Freunde aus der Uni sind Mitglieder gewesen und haben mich dann zum Segeln mitgenommen, dann wurde mir der SBF-Kurs schmackhaft gemacht und am Ende wurde ich wegen meines Feedbacks zur Unterstützung verpflichtet.
 
-Welchen Nutzen hat die Mitgliedschaft für mich?
-Eine gute Frage, am Anfang war es das verlockende Angebot günstig einen Day-Sailer (Conger Jolle) und eine kleine Yacht (Compromis 777) chartern zu können. 
+Welchen Nutzen hat die Mitgliedschaft für mich?<br>
+Eine gute Frage, am Anfang war es das verlockende Angebot günstig einen Day-Sailer (Conger Jolle) und eine kleine Yacht (Compromis 777) chartern zu können.
 Mittlerweile ist es der Kontakt zu den anderen Seglern und Seglerinnen, welche die gleiche Leidenschaft teilen.
 Dazu zählt der Stammtisch, wo man sich gegenseitig von Abenteuern erzählt, Erfahrungen & Tipps austauscht, Törns plant oder gemeinsam neue Konzepte für den Verein erarbeitet.
 
