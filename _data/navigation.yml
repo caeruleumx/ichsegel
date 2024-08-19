@@ -6,9 +6,6 @@ main:
     url: /year-archive/
   - title: "About"
     url: /about/
-  #- title: "Terms &amp; Privacy Policy"
-  #  url: /terms/
-
 
 # documentation links
 docs:
