@@ -1,0 +1,78 @@
+# main links
+main:
+  - title: "Wiki"
+    url: /docs/einleitung/
+  - title: "Berichte"
+    url: /year-archive/
+  - title: "About"
+    url: /about/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
+
+
+# documentation links
+docs:
+  - title: Übersicht
+    children:
+      - title: "Einleitung"
+        url: /docs/einleitung/
+      - title: "Segeln lernen"
+        url: /docs/segeln_lernen/
+      - title: "Segeln lehren"
+        url: /docs/segeln_lehren/
+  - title: Rund um den Törn
+    children:
+      - title: "Packliste"
+        url: /docs/packliste/
+      - title: "Törnplanung"
+        url: /docs/toernplanung/
+      - title: "Chartern"
+        url: /docs/charter/
+      - title: "Versicherungen"
+        url: /docs/versicherungen/
+      - title: "auf dem Boot"
+        url: /docs/auf_dem_boot/
+      - title: "Post Mortem"
+        url: /docs/post_mortem/
+  - title: SBF Binnen & See
+    children:
+      - title: "Binnen"
+        url: /docs/sbf_binnen/
+      - title: "See"
+        url: /docs/sbf_see/
+      - title: "Navigation"
+        url: /docs/sbf_navigation/
+      - title: "Manöver Segeln"
+        url: /docs/sbf_manoever_segeln/
+      - title: "Manöver Motor"
+        url: /docs/sbf_manoever_motor/
+  - title: SKS
+    children:
+      - title: "Einleitung"
+        url: /docs/sks/
+      - title: "Fragenkatalog"
+        url: /docs/sks_fragenkatalog/
+      - title: "Navigation"
+        url: /docs/sks_navigation/
+      - title: "Manöver"
+        url: /docs/sks_manoever/
+  - title: Funk (SRC & UBI)
+    children:
+      - title: "Fragenkatalog"
+        url: /docs/funk_fragenkatalog/
+      - title: "Praxis-Prüfung"
+        url: /docs/funk_praxis_pruefung/  
+      - title: "Realität"
+        url: /docs/funk_realitaet/  
+  - title: Pyroschein (FKN)
+    children:
+      - title: "Einleitung"
+        url: /docs/pyro/
+      - title: "Handling & Bedienung"
+        url: /docs/pyro_handling/
+  - title: Weiteres
+    children:
+      - title: "Tips & Tricks"
+        url: /docs/tips/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/
