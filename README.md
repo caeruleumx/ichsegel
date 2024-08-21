@@ -10,4 +10,4 @@ sources:
   - verein
   - friends
 
-# uses jekyll theme: [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# uses jekyll theme: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
