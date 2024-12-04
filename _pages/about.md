@@ -19,15 +19,15 @@ toc: true
 Moin, Benedikt hier 👋🏻.<br>
 Ich habe das Hobby "Segeln" für mich entdeckt, aber mir fehlt noch Erfahrung.
 
-# Über diese Website
+## Über diese Website
 Auf dieser Website findet man meine Notizen zum Thema Segeln.<br>
 Sie besteht aus 2 Teilen:
 
-## Berichte/Notizen
+### Berichte/Notizen
 - basieren auf gemachten Erfahrungen von Törns, Events, Seminaren, Gesprächen usw.
 - sind meist mit einem spezifischen Datum verbunden (z.b. 04.05.24)
 
-## Wiki
+### Wiki
 - Theorie-Wissen
 - Können sich mit der Zeit weiter entwickeln, aufgrund neuer Erkentnissen.
 - Allgemeine Wegweiser
@@ -37,10 +37,8 @@ Sie besteht aus 2 Teilen:
     * Törn Planung
     * Auf dem Boot
 
-
-
 ---
 
-# Credits
+## Credits
 Diese Website nutzt das Jeklly Theme [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).
 
