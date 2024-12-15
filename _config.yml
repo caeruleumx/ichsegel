@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "⛵️ Ich Segel!"
+title: "Ich Segel!"
 title_separator: "-"
 subtitle: "ein kleiner Segel Blog."
 name: &name "Benedikt" # &name is a YAML anchor which can be *referenced later
