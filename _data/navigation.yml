@@ -33,16 +33,16 @@ docs:
         url: /docs/post_mortem/
   - title: SBF Binnen & See
     children:
-      - title: "Binnen"
-        url: /docs/sbf_binnen/
-      - title: "See"
-        url: /docs/sbf_see/
+      - title: "Allgemein Binnen & See"
+        url: /docs/sbf/
       - title: "Navigation"
         url: /docs/sbf_navigation/
       - title: "Manöver Segeln"
         url: /docs/sbf_manoever_segeln/
       - title: "Manöver Motor"
         url: /docs/sbf_manoever_motor/
+      - title: "Manöver Motor"
+        url: /docs/nach_dem_sbf/
   - title: SKS
     children:
       - title: "Einleitung"
@@ -51,14 +51,14 @@ docs:
         url: /docs/sks_fragenkatalog/
       - title: "Navigation"
         url: /docs/sks_navigation/
-      - title: "Manöver"
-        url: /docs/sks_manoever/
+      - title: "Praxis"
+        url: /docs/sks_praxis/
   - title: Funk (SRC & UBI)
     children:
-      - title: "Fragenkatalog"
-        url: /docs/funk_fragenkatalog/
-      - title: "Praxis-Prüfung"
-        url: /docs/funk_praxis_pruefung/  
+      - title: "Allgemein"
+        url: /docs/funk/
+      - title: "Prüfung"
+        url: /docs/funk_pruefung/  
       - title: "Realität"
         url: /docs/funk_realitaet/  
   - title: Pyroschein (FKN)
@@ -71,5 +71,5 @@ docs:
     children:
       - title: "Tips & Tricks"
         url: /docs/tips/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
+      - title: "Mitsegeln 101"
+        url: /docs/mitseglen_101/
