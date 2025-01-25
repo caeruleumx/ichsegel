@@ -64,13 +64,13 @@ wiki:
       - title: "Törnplanung"
         url: /wiki/toernplanung/
       - title: "Chartern"
-        url: /wiki/charter/
+        url: /wiki/chartern/
       - title: "Versicherungen"
         url: /wiki/versicherungen/
       - title: "auf dem Boot"
-        url: /wiki/auf_dem_boot/
+        url: /wiki/auf-dem-boot/
       - title: "Post Mortem"
-        url: /wiki/post_mortem/
+        url: /wiki/post-mortem/
   - title: Weiteres
     children:
       - title: "Tips & Tricks"
