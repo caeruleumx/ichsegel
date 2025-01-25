@@ -1,22 +1,3 @@
-# example navigation
-foo:
-  - title: "Parent Link 1"
-    url: /parent-1-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-  - title: "Parent Link 2"
-    url: /parent-2-page-url/
-    children:
-      - title: "Child Link 1"
-        url: /child-1-page-url/
-      - title: "Child Link 2"
-        url: /child-2-page-url/
-      - title: "Child Link 3"
-        url: /child-3-page-url/
-
 
 # main links
 main:
@@ -32,60 +13,47 @@ main:
 
 # documentation links
 docs:
-  - title: Getting Started
+  - title: Übersicht
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
+      - title: "Einleitung"
+        url: /docs/einleitung/
+      - title: "Segeln lernen"
+        url: /docs/segeln_lernen/
+      - title: "Segeln lehren"
+        url: /docs/segeln_lehren/
+  - title: SBF Binnen & See
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
+      - title: "Allgemein Binnen & See"
+        url: /docs/sbf/
       - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
+        url: /docs/sbf_navigation/
+      - title: "Manöver Segeln"
+        url: /docs/sbf_manoever_segeln/
+      - title: "Manöver Motor"
+        url: /docs/sbf_manoever_motor/
+      - title: "Nach dem SBF"
+        url: /docs/nach_dem_sbf/
+  - title: SKS
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
+      - title: "Allgemein"
+        url: /docs/sks/
+      - title: "Fragenkatalog"
+        url: /docs/sks_fragenkatalog/
+      - title: "Navigation"
+        url: /docs/sks_navigation/
+      - title: "Praxis"
+        url: /docs/sks_praxis/
+  - title: Funk (SRC & UBI)
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
+      - title: "Allgemein"
+        url: /docs/funk/
+      - title: "Prüfung"
+        url: /docs/funk_pruefung/  
+      - title: "Realität"
+        url: /docs/funk_realitaet/  
+  - title: Pyroschein (FKN)
     children:
-      - title: "FAQ"
-        url: /docs/faq/
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
-
+      - title: "Allgemein"
+        url: /docs/pyro/
+      - title: "Handling & Bedienung"
+        url: /docs/pyro_handling/
