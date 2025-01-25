@@ -7,8 +7,7 @@
 
 # Theme settings
 remote_theme             : "mmistakes/minimal-mistakes@master"
-#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-minimal_mistakes_skin    : "dark"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 title: "⛵️ Ich Segel!"
