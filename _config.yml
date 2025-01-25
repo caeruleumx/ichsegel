@@ -173,7 +173,7 @@ defaults:
         nav: "docs"
   # _knowhow
   - scope:
-      path: ""
+      path: "_knowhow"
       type: docs
     values:
       layout: single
