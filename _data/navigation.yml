@@ -2,7 +2,7 @@
 # main links
 main:
   - title: "Segeln lernen"
-    url: /docs/quick-start-guide/
+    url: /docs/einleitung/
   - title: "Wissenssammlung"
     url: /pets/
   - title: "Berichte"
@@ -26,34 +26,34 @@ docs:
       - title: "Allgemein Binnen & See"
         url: /docs/sbf/
       - title: "Navigation"
-        url: /docs/sbf_navigation/
+        url: /docs/sbf_kartenaufgaben/
       - title: "Manöver Segeln"
-        url: /docs/sbf_manoever_segeln/
+        url: /docs/sbf-manoever-segeln/
       - title: "Manöver Motor"
-        url: /docs/sbf_manoever_motor/
+        url: /docs/sbf-manoever-motor/
       - title: "Nach dem SBF"
-        url: /docs/nach_dem_sbf/
+        url: /docs/nach-dem-sbf/
   - title: SKS
     children:
       - title: "Allgemein"
         url: /docs/sks/
       - title: "Fragenkatalog"
-        url: /docs/sks_fragenkatalog/
+        url: /docs/sks-fragenkatalog/
       - title: "Navigation"
-        url: /docs/sks_navigation/
+        url: /docs/sks-navigation/
       - title: "Praxis"
-        url: /docs/sks_praxis/
+        url: /docs/sks-praxis/
   - title: Funk (SRC & UBI)
     children:
       - title: "Allgemein"
         url: /docs/funk/
       - title: "Prüfung"
-        url: /docs/funk_pruefung/  
+        url: /docs/funk-pruefung/  
       - title: "Realität"
-        url: /docs/funk_realitaet/  
+        url: /docs/funk-realitaet/  
   - title: Pyroschein (FKN)
     children:
       - title: "Allgemein"
         url: /docs/pyro/
       - title: "Handling & Bedienung"
-        url: /docs/pyro_handling/
+        url: /docs/pyro-handling/
