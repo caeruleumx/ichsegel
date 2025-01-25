@@ -1,6 +1,6 @@
 ---
 title: "SKS Navigation"
-permalink: /docs/sks-navigation/
+permalink: /guides/sks-navigation/
 last_modified_at: 2018-11-25T19:47:43-05:00
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SKS Praxisprüfung"
-permalink: /docs/sks-praxis/
+permalink: /guides/sks-praxis/
 last_modified_at: 2021-07-23T09:33:35-04:00
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "SKS"
-permalink: /docs/sks/
+permalink: /guides/sks/
 toc: true
 ---
 # SKS Allgemein
