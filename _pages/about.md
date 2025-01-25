@@ -29,12 +29,8 @@ Sie besteht aus 2 Teilen:
 ### Wiki
 - Theorie-Wissen
 - Können sich mit der Zeit weiter entwickeln, aufgrund neuer Erkentnissen.
-- Allgemeine Wegweiser
-    * Segeln lernen
-    * Segeln lehren
-    * Chartern
-    * Törn Planung
-    * Auf dem Boot
+- Teil 1: Segeln lernen & Segeln lehren
+- Teil 2: Wissen das ich durch Erfahrungen gesammelt habe (Chartern, Törnplanung, Auf dem Boot, ...)
 
 ---
 
