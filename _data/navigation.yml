@@ -1,11 +1,38 @@
 # main links
 main:
-  - title: "Wiki"
+  - title: "Segeln lernen"
     url: /docs/einleitung/
+  - title: "Wissenssammlung"
+    url: /knowhow/einleitung/
   - title: "Berichte"
     url: /year-archive/
   - title: "About"
     url: /about/
+
+# knowhow links
+knowhow:
+  - title: Rund um den Törn
+    children:
+      - title: "Packliste"
+        url: /knowhow/packliste/
+      - title: "Törnplanung"
+        url: /knowhow/toernplanung/
+      - title: "Chartern"
+        url: /knowhow/charter/
+      - title: "Versicherungen"
+        url: /knowhow/versicherungen/
+      - title: "auf dem Boot"
+        url: /knowhow/auf_dem_boot/
+      - title: "Post Mortem"
+        url: /knowhow/post_mortem/
+  - title: Weiteres
+    children:
+      - title: "Tips & Tricks"
+        url: /knowhow/tips/
+      - title: "Rund um den Törn"
+        url: /knowhow/mitseglen_101/
+      - title: "Mitsegeln 101"
+        url: /knowhow/toern_101/
 
 # documentation links
 docs:
@@ -17,20 +44,6 @@ docs:
         url: /docs/segeln_lernen/
       - title: "Segeln lehren"
         url: /docs/segeln_lehren/
-  - title: Rund um den Törn
-    children:
-      - title: "Packliste"
-        url: /docs/packliste/
-      - title: "Törnplanung"
-        url: /docs/toernplanung/
-      - title: "Chartern"
-        url: /docs/charter/
-      - title: "Versicherungen"
-        url: /docs/versicherungen/
-      - title: "auf dem Boot"
-        url: /docs/auf_dem_boot/
-      - title: "Post Mortem"
-        url: /docs/post_mortem/
   - title: SBF Binnen & See
     children:
       - title: "Allgemein Binnen & See"
@@ -41,11 +54,11 @@ docs:
         url: /docs/sbf_manoever_segeln/
       - title: "Manöver Motor"
         url: /docs/sbf_manoever_motor/
-      - title: "Manöver Motor"
+      - title: "Nach dem SBF"
         url: /docs/nach_dem_sbf/
   - title: SKS
     children:
-      - title: "Einleitung"
+      - title: "Allgemein"
         url: /docs/sks/
       - title: "Fragenkatalog"
         url: /docs/sks_fragenkatalog/
@@ -63,13 +76,7 @@ docs:
         url: /docs/funk_realitaet/  
   - title: Pyroschein (FKN)
     children:
-      - title: "Einleitung"
+      - title: "Allgemein"
         url: /docs/pyro/
       - title: "Handling & Bedienung"
         url: /docs/pyro_handling/
-  - title: Weiteres
-    children:
-      - title: "Tips & Tricks"
-        url: /docs/tips/
-      - title: "Mitsegeln 101"
-        url: /docs/mitseglen_101/

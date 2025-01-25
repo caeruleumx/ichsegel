@@ -8,15 +8,6 @@ redirect_from:
 toc: true
 ---
 
-Hier will ich zwei Arten von Wissen niederschreiben
 - Howto/Lern-Guide für die Segelscheine SBF, SKS, Funk, Pyro
   - wie man bzw. ich dafür lernen würde
   - wie es dann in der Realität tatsächlich gemacht wird
-  - andere Segelscheine (SSS oder SHS) mache ich nicht, da meiner Meinung nach nicht nötig
-- nützliches gesammeltes Wissen rund ums Thema Segeln
-  - angefangen bei der Törnplanung
-  - über das Charter,
-  - Versicherungen,
-  - die Ausrüstung,
-  - bis zum Boot und seine Bestandteile 
-Mein Wissen baut sich nur langsam über die Zeit durch neue Erfahrungen auf und wenn ich dann mal wieder was neues lerne, dann wird das hier festgehalten.

@@ -73,6 +73,7 @@ search_provider          : lunr # lunr (default), algolia
 include:
   - _pages
   - _docs
+  - _knowhow
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -133,6 +134,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  knowhow:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -167,6 +171,19 @@ defaults:
       toc_sticky: true
       sidebar:
         nav: "docs"
+  # _knowhow
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      toc_sticky: true
+      sidebar:
+        nav: "knowhow"
 
 # Archives
 #  Type
