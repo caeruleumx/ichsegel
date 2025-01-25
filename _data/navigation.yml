@@ -11,6 +11,10 @@ main:
     url: /about/
 
 
+pets:
+  - title: Übersicht
+    url: /pets/einleitung/
+
 # documentation links
 docs:
   - title: Übersicht
