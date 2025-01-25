@@ -1,6 +1,6 @@
 ---
 title: "Post Mortem (Nachbesprechung)"
-permalink: /docs/post_mortem/
+permalink: /wiki/post_mortem/
 last_modified_at: 2021-05-11T10:22:55-04:00
 ---
 

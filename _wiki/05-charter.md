@@ -1,6 +1,6 @@
 ---
 title: "Chartern von Yachten"
-permalink: /docs/charter/
+permalink: /wiki/charter/
 last_modified_at: 2021-05-11T10:40:42-04:00
 toc: true
 ---

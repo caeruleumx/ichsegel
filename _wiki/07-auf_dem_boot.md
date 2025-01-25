@@ -1,6 +1,6 @@
 ---
 title: "Auf dem Boot"
-permalink: /docs/auf-dem-boot/
+permalink: /wiki/auf-dem-boot/
 last_modified_at: 2018-03-20T15:59:40-04:00
 toc: true
 ---

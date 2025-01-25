@@ -1,6 +1,6 @@
 ---
 title: "Törnplanung"
-permalink: /docs/törnplanung/
+permalink: /wiki/törnplanung/
 last_modified_at: 2024-04-23T00:43:19+08:00
 toc: true
 ---
