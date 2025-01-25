@@ -14,19 +14,17 @@ main:
 # documentation links
 docs:
   - title: Übersicht
+    url: /docs/einleitung/
     children:
-      - title: "Einleitung"
-        url: /docs/einleitung/
       - title: "Segeln lernen"
         url: /docs/segeln_lernen/
       - title: "Segeln lehren"
         url: /docs/segeln_lehren/
   - title: SBF Binnen & See
+    url: /docs/sbf/
     children:
-      - title: "Allgemein Binnen & See"
-        url: /docs/sbf/
       - title: "Navigation"
-        url: /docs/sbf_kartenaufgaben/
+        url: /docs/sbf-kartenaufgaben/
       - title: "Manöver Segeln"
         url: /docs/sbf-manoever-segeln/
       - title: "Manöver Motor"
@@ -34,9 +32,8 @@ docs:
       - title: "Nach dem SBF"
         url: /docs/nach-dem-sbf/
   - title: SKS
+    url: /docs/sks/
     children:
-      - title: "Allgemein"
-        url: /docs/sks/
       - title: "Fragenkatalog"
         url: /docs/sks-fragenkatalog/
       - title: "Navigation"
@@ -44,16 +41,14 @@ docs:
       - title: "Praxis"
         url: /docs/sks-praxis/
   - title: Funk (SRC & UBI)
+    url: /docs/funk/
     children:
-      - title: "Allgemein"
-        url: /docs/funk/
       - title: "Prüfung"
         url: /docs/funk-pruefung/  
       - title: "Realität"
         url: /docs/funk-realitaet/  
   - title: Pyroschein (FKN)
+    url: /docs/pyro/
     children:
-      - title: "Allgemein"
-        url: /docs/pyro/
       - title: "Handling & Bedienung"
         url: /docs/pyro-handling/
