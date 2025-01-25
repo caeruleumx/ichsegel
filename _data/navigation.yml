@@ -2,57 +2,78 @@
 # main links
 main:
   - title: "Segeln lernen"
-    url: /docs/einleitung/
+    url: /guides/einleitung/
   - title: "Wissenssammlung"
-    url: /pets/
+    url: /wiki/einleitung/
   - title: "Berichte"
     url: /year-archive/
   - title: "About"
     url: /about/
 
-
-pets:
-  - title: Übersicht
-    url: /pets/einleitung/
-
 # documentation links
-docs:
+guides:
   - title: Übersicht
-    url: /docs/einleitung/
+    url: /guides/einleitung/
     children:
       - title: "Segeln lernen"
-        url: /docs/segeln_lernen/
+        url: /guides/segeln_lernen/
       - title: "Segeln lehren"
-        url: /docs/segeln_lehren/
+        url: /guides/segeln_lehren/
   - title: SBF Binnen & See
-    url: /docs/sbf/
+    url: /guides/sbf/
     children:
       - title: "Navigation"
-        url: /docs/sbf-kartenaufgaben/
+        url: /guides/sbf-kartenaufgaben/
       - title: "Manöver Segeln"
-        url: /docs/sbf-manoever-segeln/
+        url: /guides/sbf-manoever-segeln/
       - title: "Manöver Motor"
-        url: /docs/sbf-manoever-motor/
+        url: /guides/sbf-manoever-motor/
       - title: "Nach dem SBF"
-        url: /docs/nach-dem-sbf/
+        url: /guides/nach-dem-sbf/
   - title: SKS
-    url: /docs/sks/
+    url: /guides/sks/
     children:
       - title: "Fragenkatalog"
-        url: /docs/sks-fragenkatalog/
+        url: /guides/sks-fragenkatalog/
       - title: "Navigation"
-        url: /docs/sks-navigation/
+        url: /guides/sks-navigation/
       - title: "Praxis"
-        url: /docs/sks-praxis/
+        url: /guides/sks-praxis/
   - title: Funk (SRC & UBI)
-    url: /docs/funk/
+    url: /guides/funk/
     children:
       - title: "Prüfung"
-        url: /docs/funk-pruefung/  
+        url: /guides/funk-pruefung/  
       - title: "Realität"
-        url: /docs/funk-realitaet/  
+        url: /guides/funk-realitaet/  
   - title: Pyroschein (FKN)
-    url: /docs/pyro/
+    url: /guides/pyro/
     children:
       - title: "Handling & Bedienung"
-        url: /docs/pyro-handling/
+        url: /guides/pyro-handling/
+  - title: "Mitsegeln 101"
+    url: /wiki/toern_101/
+
+
+# wiki links
+wiki:
+  - title: Rund um den Törn
+    children:
+      - title: "Packliste"
+        url: /wiki/packliste/
+      - title: "Törnplanung"
+        url: /wiki/toernplanung/
+      - title: "Chartern"
+        url: /wiki/charter/
+      - title: "Versicherungen"
+        url: /wiki/versicherungen/
+      - title: "auf dem Boot"
+        url: /wiki/auf_dem_boot/
+      - title: "Post Mortem"
+        url: /wiki/post_mortem/
+  - title: Weiteres
+    children:
+      - title: "Tips & Tricks"
+        url: /wiki/tips/
+      - title: "Rund um den Törn"
+        url: /wiki/rund-um-den-toern/
