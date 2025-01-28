@@ -7,32 +7,7 @@ toc: true
 #TODO
 https://www.charter-logbuch.de/agenda-vortreffen-segeltoern/
 
-Fokus: Das Boot von A nach B bekommen
-
-Übersicht der Teile:
-<!-- TOC -->
-- [Törnplanung](#törnplanung)
-- [1. Wunschliste: Grobe Wünsche & Ziele, Interessen](#1-wunschliste-grobe-wünsche--ziele-interessen)
-    - [Wants](#wants)
-    - [Welches Revier?](#welches-revier)
-        - [Anfänger](#anfänger)
-        - [Forgeschritten](#forgeschritten)
-        - [Adventure](#adventure)
-    - [was für ein Botostyp?](#was-für-ein-botostyp)
-- [2. Buchen (September/Oktober des Vorjahres)](#2-buchen-septemberoktober-des-vorjahres)
-    - [Wo Chatern](#wo-chatern)
-    - [An-& Abreise planen](#an--abreise-planen)
-    - [versicherung](#versicherung)
-- [3. Grobe Planung (1month/1week before)](#3-grobe-planung-1month1week-before)
-    - [Verpflegung planen](#verpflegung-planen)
-    - [Tasche/Ausrüstung packen](#tascheausrüstung-packen)
-- [4. Finale Planung: 2 Tage vor Anreise](#4-finale-planung-2-tage-vor-anreise)
-- [5. Tägliche Planung](#5-tägliche-planung)
-    - [(Vor-)abend:](#vor-abend)
-    - [Morgens:](#morgens)
-    - [Spontane Änderungen:](#spontane-änderungen)
-- [APPS](#apps)
-<!-- /TOC -->
+Fokus: Von A nach B bekommen
 
 # 1. Wunschliste: Grobe Wünsche & Ziele, Interessen
 - im Juni/September des Vorjahres
@@ -91,6 +66,7 @@ Fokus: Das Boot von A nach B bekommen
         - echte (bsp: piteryachting)
     - private Eigner?
 - beiboot (motor)/SUP/Kayak dazu buchen?
+siehe "Chartern"
 
 ## An-& Abreise planen
 - auto/zug/flug?

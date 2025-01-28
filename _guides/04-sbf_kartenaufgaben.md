@@ -12,7 +12,7 @@ https://www.amazon.de/IDEM-RADICES-Navigationsbesteck-Sportbootf%C3%BChrerschein
 https://www.amazon.de/Navigationsbesteck-Binnen-Navigation-Anlegedreieck-Sportbootf%C3%BChrerschein/dp/B0C2FV7BN2
 
 https://www.amazon.de/%C3%9Cbungsbogen-Sportbootf%C3%BChrerschein-See-Antwortbogen-Vorbereitung/dp/3667127936
-- bracht man nicht, einfach app nutzen
+- braucht man nicht, einfach app nutzen
 
 https://www.amazon.de/%C3%9Cbungskarten-Sportbootf%C3%BChrerschein-See-amtlichen-Seekartenausschnitte/dp/3667122748
 - sind nur die karten, reicht aus + app für fragen

@@ -5,6 +5,16 @@ excerpt: "How the theme is organized and what all of the files are for."
 last_modified_at: 2018-03-20T15:19:22-04:00
 toc: true
 ---
+# Kurse
+DSV:
+- Segeltrainer & -innen: https://www.dsv.org/aus-und-weiterbildung/segeltrainerinnen/
+  - wird vom jeweiligen Landesseglerverbände gemacht, zb. SVNRW
+  - trainer C: Breitensport = basismodul + sport spezifisch
+  - https://www.sportbildungswerk-nrw.de/angebote/qualifizierung/sportpraxis/ausbildungen-1-lizenzstufe/basismodul-uel-c
+  - https://vsp-svnrw.app.b5c.eu/
+- Segellehrer & -innen: https://www.dsv.org/aus-und-weiterbildung/segellehrerinnen/
+  - lehrer A = Für SBF (Binnen und See) Ausbildung
+
 ## Theorie
 - Theorie sollte meiner Meinung nach kostenlos sein, daher diese Website.
 - Begründung: die Theorie fragen sind online frei verfügbar.

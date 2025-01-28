@@ -2,6 +2,7 @@
 title: "Versicherungen"
 permalink: /wiki/versicherungen/
 last_modified_at: 2020-07-27
+toc: true
 ---
 ## Skipper Haftpflicht-Versicherung 
 - ist eine Haftpflicht-Versicherung für (das führen einer) gecharterte Segel-Yachten
@@ -49,3 +50,7 @@ last_modified_at: 2020-07-27
     - Umweltschäden
     - Folgecharter
     - grobe Fahrlässigkeit?
+
+# Kautionsversicherung
+# Auslandskrankenversicherung
+# Reiserücktrittsversicherung

@@ -6,13 +6,13 @@ toc: true
 ---
 
 # checklisten
-- an-/ablegen
+- An-/Ablegen
 - Crew Sicherheitseinweisung
-- Boots übernahme/Übergabe
+- Boots Übernahme/Übergabe
 - Verhalten bei Unfall
 
 # auf dem Boot
-- checking / übernahme
+- check-in / übernahme
     - alleine durchgehen
     - schnell durchgang mit verchater/dienstleister
     - fragen kären
@@ -22,7 +22,6 @@ toc: true
     - Hafen
     - Segel
     - Motor
-
 
 https://www.lifeofsailing.com/post/what-size-sailboat-can-one-person-handle
 
@@ -38,5 +37,9 @@ https://www.lifeofsailing.com/post/what-size-sailboat-can-one-person-handle
             - Brand
             - ...
     - wen rufe ich an?
+        - Abschlepper
+        - Verchater
+        - MOB
+        - Medizin Notfall
 
-- checkout / übergabe
+- check-out / übergabe

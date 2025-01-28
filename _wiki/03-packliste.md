@@ -8,70 +8,13 @@ toc: true
 
 verwende affiliate links
 
-segelkleidung
-- hose
-- jacke
-- hut
-- handschuhe
-- hals schlauchschal
-- wasserschue
-- bordschuhe
-- gummistiefel
-- fleece jacke
-- uv angler langarm tshirt
-
-kleidung, warmes wetter
-- kurze sporthose
-- dünne lange leinenhose
-- hawaii hemd
-
-kleidung, bei kälte 
-- mütze
-- thermos oberteil
-- thermos hose
-- woll überzieh socken
-
-bad
-- kulturbeutel
-    - mini kamm
-    - nagelschere & -feile
-    - zahnbürste & -pasta
-    - zahnseide
-    - duschgel
-    - haar shampoo
-    - mini spiegel
-- badelatschen
-- (microfaser-)handtuch
-- toilettenpapier
-- optional fön
-- sonnencreme
-- kleines schweiß handtuch 
-- ein badehandtuch (optional)
-
-# Essen
-- breakfast
-    - hafer flocken
-    - eier (spiegel, rührei)
-    - pfannekuchen
-- lunch
-    - sandwich?
-    - gekochte eier
-    - snack salami
-
-- snacks
-    - tucs
-    - riegel (schoko, enegeie, nuss)
-    - bananen
-    - gemüse
-- dinner
-    - chilli
-    - ramen
-    - grillen
-
+# Wo kaufen?
+- im Winter SALE, vergleichsplattformen nutzen
+- auf der Boot, ! heutzutage nicht mehr so gute Angebote, quasi wie online. aber an Manchen Ständen macht man noch gutes Angebot. 
 
 # Ausrüstung prüfen und warten lassen (bsp: Rettungswesten)
 
-# tasche packen
+# Ausrüstung packen
 - on Body
     - bauch/brust-tasche
         - karten etui
@@ -130,6 +73,25 @@ bad
         - pinzette
     - Sonnencreme
 
+Segelkleidung
+- hose
+- jacke
+- hut
+- handschuhe
+- hals schlauchschal
+- wasserschue
+- bordschuhe
+- gummistiefel
+- fleece jacke
+- uv angler langarm tshirt
+Base layer
+- warmes Wetter: kurze sporthose
+- kaltes Wetter:
+    - mütze
+    - thermos oberteil
+    - thermos hose
+    - woll überzieh socken
+
 - Seesack 90L (tribod, kleidung)
     - schuh-fach
         - bootsschuhe
@@ -142,6 +104,11 @@ bad
         - technik-box
         - small cook-kit
         - skipper-tasche
+
+Landgang kleidung
+- dünne lange leinenhose
+- hawaii hemd
+- bauchtasche
 
 - Ikea tasche (Ölzeugs)
     - maybe on body:
@@ -214,6 +181,23 @@ bad
     - Wäscheleine (paracord?)
     - Wäscheklammern
 
+ bad
+- kulturbeutel
+    - mini kamm
+    - nagelschere & -feile
+    - zahnbürste & -pasta
+    - zahnseide
+    - duschgel
+    - haar shampoo
+    - mini spiegel
+- badelatschen
+- (microfaser-)handtuch
+- toilettenpapier
+- optional fön
+- sonnencreme
+- kleines schweiß handtuch 
+- ein badehandtuch (optional)
+
 - med-kit
     - sonenncreme
     - alo-vera (für sonnenbrand)
@@ -282,3 +266,22 @@ bad
             - anzünder
             - grill-zange
 
+# Essen
+- breakfast
+    - hafer flocken
+    - eier (spiegel, rührei)
+    - pfannekuchen
+- lunch
+    - sandwich?
+    - gekochte eier
+    - snack salami
+
+- snacks
+    - tucs
+    - riegel (schoko, enegeie, nuss)
+    - bananen
+    - gemüse
+- dinner
+    - chilli
+    - ramen
+    - grillen
