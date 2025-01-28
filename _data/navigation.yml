@@ -52,7 +52,7 @@ guides:
       - title: "Handling & Bedienung"
         url: /guides/pyro-handling/
   - title: "Mitsegeln 101"
-    url: /wiki/toern_101/
+    url: /wiki/mitsegeln-101/
 
 
 # wiki links
@@ -67,7 +67,7 @@ wiki:
         url: /wiki/chartern/
       - title: "Versicherungen"
         url: /wiki/versicherungen/
-      - title: "auf dem Boot"
+      - title: "Auf dem Boot"
         url: /wiki/auf-dem-boot/
       - title: "Post Mortem"
         url: /wiki/post-mortem/
@@ -75,5 +75,3 @@ wiki:
     children:
       - title: "Tips & Tricks"
         url: /wiki/tips/
-      - title: "Rund um den Törn"
-        url: /wiki/rund-um-den-toern/
