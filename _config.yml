@@ -47,7 +47,7 @@ search_provider          : lunr # lunr (default), algolia
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/benedikt-profile.jpeg"
-  bio              : "Ich genieße die Zeit auf und im Wasser sowie in den Bergen."
+  bio              : "Ich verbringe gerne die Zeit auf und im Wasser sowie in den Bergen."
   location         : "Deutschland"
   links:
     #- label: "Made Mistakes"
