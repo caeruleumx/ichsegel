@@ -81,6 +81,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - _drafts
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
@@ -145,7 +146,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
