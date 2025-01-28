@@ -59,14 +59,14 @@ guides:
 wiki:
   - title: Rund um den Törn
     children:
-      - title: "Packliste"
-        url: /wiki/packliste/
       - title: "Törnplanung"
         url: /wiki/toernplanung/
       - title: "Chartern"
         url: /wiki/chartern/
       - title: "Versicherungen"
         url: /wiki/versicherungen/
+      - title: "Packliste"
+        url: /wiki/packliste/
       - title: "Auf dem Boot"
         url: /wiki/auf-dem-boot/
       - title: "Post Mortem"
