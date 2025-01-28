@@ -35,6 +35,7 @@ words_per_minute         : 200
 enable_copy_code_button  : true
 
 atom_feed:
+  hide: true
   path                   : # blank (default) uses feed.xml
 
 search                   : true # true, false (default)
