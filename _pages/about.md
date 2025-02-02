@@ -15,16 +15,18 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 # Über mich
-Moin, Benedikt hier 👋🏻.<br>
-Ich habe das Hobby "Segeln" für mich entdeckt, aber mir fehlt noch Erfahrung.
+Moin, ich bin Benedikt 👋🏻.<br>
+Das Segeln hat mich in seinen Bann gezogen, auch wenn ich noch mitten im Lernprozess stecke. Jeder Törn, jedes Manöver und jede neue Erfahrung bringen mich weiter.<br>
+*Bisher gesammelte Zeit auf dem Wasser:* 279,18SM*<br>
+\* Ohne Seemeilen von Ausbildungszeit, Tagesausflüge (Vereins-Jolle) und Regatten – da fehlt noch einiges in der Rechnung!
 
 ## Über diese Website
-Auf dieser Website findet man meine Notizen zum Thema Segeln.<br>
-Sie besteht aus 2 Teilen:
+Hier sammle ich meine Notizen rund ums Segeln – ein persönliches Logbuch und Nachschlagewerk zugleich.<br>
+Die Inhalte sind in zwei Hauptbereiche unterteilt:
 
 ### Berichte/Notizen
-- basieren auf gemachten Erfahrungen von Törns, Events, Seminaren, Gesprächen usw.
-- sind meist mit einem spezifischen Datum verbunden (z.b. 04.05.24)
+- Basieren auf persönlichen Erfahrungen von Törns, Events, Seminaren, Gesprächen usw.
+- Oft mit einem konkreten Datum verknüpft  (z.b. 04.05.24)
 
 ### Wiki
 - Theorie-Wissen
