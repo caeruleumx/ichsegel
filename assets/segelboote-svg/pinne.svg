@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="27.832705mm"
+   height="1.3260071mm"
+   viewBox="0 0 27.832704 1.3260071"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:vectornator="http://vectornator.io"><defs
+     id="defs1" /><g
+     opacity="1"
+     vectornator:layerName="bb halber w"
+     id="g248"
+     style="clip-rule:evenodd;display:inline;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round"
+     transform="matrix(1.6827511,0,0,1.6827511,-849.75228,-561.81674)">
+<g
+   opacity="1"
+   vectornator:layerName="rumpf"
+   id="g242">
+<path
+   d="m 579.186,334.244 c -5.892,-5.862 -12.325,-9.77 -19.751,-11.845 -7.485,-2.043 -16.023,-1.533 -24.56,-0.571 -8.628,0.931 -17.316,2.796 -26.545,5.922 v 12.988 c 9.229,3.036 17.917,5.021 26.545,5.952 8.538,0.872 17.075,1.412 24.56,-0.571 7.424,-2.138 13.863,-5.988 19.75,-11.883 z"
+   fill="#000000"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="path"
+   id="path238" />
+<path
+   d="m 576.932,334.244 c -4.87,-5.441 -10.642,-8.868 -17.766,-10.853 -7.155,-1.833 -16.265,-1.562 -24.561,-0.571 -8.358,0.873 -16.505,2.677 -25.012,5.652 v 11.725 c 8.447,2.885 16.624,4.6 25.012,5.502 8.297,0.841 17.525,1.233 24.681,-0.572 7.09,-1.987 12.86,-5.503 17.637,-10.889 z"
+   fill="#16a4e9"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="path"
+   id="path239" />
+<path
+   d="m 564.247,334.244 v -5.922 c -3.728,-1.563 -8.207,-2.557 -13.558,-2.977 -5.41,-0.539 -11.724,-0.871 -18.489,0.152 -6.884,1.053 -14.129,2.915 -22.186,5.952 v 5.622 c 7.065,2.585 13.619,4.418 19.902,5.501 6.193,1.023 11.604,1.352 17.376,0.992 5.772,-0.39 11.273,-1.473 16.956,-3.247 v -6.08 z"
+   fill="#000000"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="path"
+   id="path240" />
+<path
+   d="m 563.529,334.244 v -5.441 c -4.389,-1.684 -9.169,-2.706 -14.64,-3.156 -5.472,-0.452 -11.394,-0.541 -17.888,0.51 -6.493,1.051 -17.165,3.939 -20.683,5.712 l -0.0582,4.8699 c 0.151,0.061 -0.15029,-0.13115 -2.9e-4,-0.0401 3.518,1.773 14.24749,4.61025 20.74149,5.66325 6.494,1.023 12.416,0.962 17.888,0.51 5.471,-0.45 10.251,-1.502 14.64,-3.156 v -5.47 z"
+   fill="#ffffff"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="path"
+   id="path241" />
+<path
+   d="m 521.5,334.277 c 0,-0.21 -0.691,-0.391 -1.563,-0.391 h -13.408 c -0.842,0 -1.533,0.181 -1.533,0.391 0,0.211 0.691,0.361 1.533,0.361 h 13.408 c 0.868,0 1.561,-0.15 1.561,-0.359 z"
+   fill="#000000"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="path"
+   id="path242" />
+<path
+   d="m 556.94,332.682 c -0.932,0 -1.714,0.782 -1.714,1.713 0,0.962 0.782,1.714 1.714,1.714 0.961,0 1.714,-0.751 1.714,-1.714 0,-0.927 -0.752,-1.712 -1.712,-1.712 z"
+   fill="#000000"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="mast"
+   id="path247"
+   style="clip-rule:evenodd;display:inline;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round"
+   transform="translate(-6.1902598e-6)" /></g>
+
+</g></svg>

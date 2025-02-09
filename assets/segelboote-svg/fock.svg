@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="31.258381mm"
+   height="21.199869mm"
+   viewBox="0 0 31.258381 21.199869"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:vectornator="http://vectornator.io"><defs
+     id="defs1" /><g
+     opacity="1"
+     vectornator:layerName="bb halber w"
+     id="g248"
+     style="clip-rule:evenodd;display:inline;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:round"
+     transform="matrix(1.6827511,0,0,1.6827511,-932.40401,-562.78527)">
+
+<g
+   opacity="1"
+   vectornator:layerName="segel"
+   id="g247"
+   style="display:inline">
+
+<g
+   opacity="1"
+   vectornator:layerName="fok"
+   id="g246">
+<path
+   d="m 554.128,346.992 c 3.153,-0.224 5.858,-0.62 8.046,-1.349 2.149,-0.71 3.64,-1.807 5.077,-2.924 1.39,-1.329 2.505,-2.864 3.437,-4.177 0.826,-1.292 1.598,-2.442 1.964,-3.462 l -0.151,-0.607 -18.375,12.526 z"
+   fill="#000000"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="path"
+   id="path245" />
+<path
+   d="m 555.514,346.564 c 2.21,-0.204 4.238,-0.607 6.087,-1.208 1.825,-0.708 3.326,-1.413 4.79,-2.519 1.452,-1.241 2.717,-2.91 3.722,-4.164 0.977,-1.264 1.671,-2.382 2.081,-3.351 l -0.326,-0.159 -16.352,11.405 z"
+   fill="#c0c0c0"
+   fill-rule="evenodd"
+   opacity="1"
+   stroke="#000000"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   stroke-width="0.036"
+   vectornator:layerName="path"
+   id="path246" />
+</g>
+
+</g>
+</g></svg>
