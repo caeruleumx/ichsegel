@@ -63,31 +63,30 @@ https://www.amazon.de/IDEM-RADICES-Knoten-Stunde-Bodenseeschifferpatent/dp/B0BK6
 + Knoten
 
 
-# Sportbootführerscheinverordnung (SpFV)
-https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/SpFV/SpFV-node.html
-Anlagen
-Anlage 3
+# Anlage 3 der Sportbootführerscheinverordnung (SpFV)
 https://www.elwis.de/DE/Sportschifffahrt/Sportbootfuehrerscheine/SpFV/Anlagen/Anlage-03/Anlage-03-node.html
+
 1. Allgemeines
 Im theoretischen Prüfungsteil soll der Bewerber nachweisen, dass er mindestens ausreichende Kenntnisse der für das Führen eines Sportbootes maßgebenden schifffahrtspolizeilichen Vorschriften und die zur sicheren Führung eines Sportbootes erforderlichen nautischen und technischen Kenntnisse für den jeweiligen Geltungsbereich besitzt.
 
-Im theoretischen Prüfungsteil werden Basisfragen und spezifische Fragen gestellt, die im Antwort-Auswahl-Verfahren zu beantworten sind. Die Basisfragen beinhalten in einem allgemeinen Teil Regelungen zum Verkehrsrecht, zur Schiffsführung, zum Umweltrecht, zur Schiffstechnik und zum Wetter sowie besondere Regelungen für die Antriebsarten mit Antriebsmaschine und unter Segel. Die spezifischen Fragen beinhalten Besonderheiten des Binnenschifffahrtsrechts bzw. des Seeschifffahrtsrechts. Zur Beantwortung der Fragen muss der Bewerber aus jeweils vier Antwortvorschlägen eine Antwort durch Ankreuzen auswählen. Von den vier Antwortvorschlägen ist jeweils nur ein Antwortvorschlag richtig. Für jede richtig ausgewählte Antwort erhält der Bewerber einen Punkt.
+Im theoretischen Prüfungsteil werden Basisfragen und spezifische Fragen gestellt, die im Antwort-Auswahl-Verfahren zu beantworten sind. 
 
-Die theoretische Prüfung ist grundsätzlich schriftlich durchzuführen.
+Die Basisfragen beinhalten in einem allgemeinen Teil Regelungen zum Verkehrsrecht, zur Schiffsführung, zum Umweltrecht, zur Schiffstechnik und zum Wetter sowie besondere Regelungen für die Antriebsarten mit Antriebsmaschine und unter Segel. 
+
+Die spezifischen Fragen beinhalten Besonderheiten des Binnenschifffahrtsrechts bzw. des Seeschifffahrtsrechts. Zur Beantwortung der Fragen muss der Bewerber aus jeweils vier Antwortvorschlägen eine Antwort durch Ankreuzen auswählen.
+
+Von den vier Antwortvorschlägen ist jeweils nur ein Antwortvorschlag richtig.
 
 1.1 Navigationsaufgabe Geltungsbereich Seeschifffahrtsstraßen
-Für den Geltungsbereich Seeschifffahrtsstraßen ist außer dem Fragebogen eine Navigationsaufgabe zu bearbeiten, bei der die Antworten zu den Aufgaben frei formuliert oder Eintragungen in der Seekarte vorgenommen werden müssen. Für jede richtige Antwort oder Eintragung erhält der Bewerber einen Punkt je Aufgabe. Dies gilt auch für Antworten, die lediglich aufgrund eines Folgefehlers unrichtig sind. Ein Folgefehler liegt vor, wenn ein unrichtiger Ansatz folgerichtig weitergeführt wird, sei es, dass bei einer Rechenaufgabe ein unrichtiges Ergebnis bei der Lösung weiterer Rechenaufgaben eingesetzt und dadurch trotz des richtigen Rechenweges auch die weiteren Aufgaben unrichtig gelöst werden, oder sei es, dass bei einer unrichtigen Weichenstellung in einer sonstigen Arbeit danach ein folgerichtiger Lösungsweg beschritten wird.
-
-1.2 Anerkennung von Prüfungsteilen
-Fähigkeiten, die beim Erwerb des Sportbootführerscheins für einen Geltungsbereich oder eine Antriebsart bereits geprüft wurden, werden beim Erwerb des Sportbootführerscheins für den anderen Geltungsbereich oder die andere Antriebsart grundsätzlich nicht erneut geprüft. Erfolgt die Prüfung für den anderen Geltungsbereich oder die andere Antriebsart nicht bei demselben Prüfungsausschuss für den zuerst erworbenen Geltungsbereich oder die zuerst erworbene Antriebsart, ist zum Nachweis der geprüften Fähigkeiten die Vorlage des Sportbootführerscheins erforderlich.
+Für den Geltungsbereich Seeschifffahrtsstraßen ist außer dem Fragebogen eine Navigationsaufgabe zu bearbeiten, bei der die Antworten zu den Aufgaben frei formuliert oder Eintragungen in der Seekarte vorgenommen werden müssen. Für jede richtige Antwort oder Eintragung erhält der Bewerber einen Punkt je Aufgabe. *Dies gilt auch für Antworten, die lediglich aufgrund eines Folgefehlers unrichtig sind.* Ein Folgefehler liegt vor, wenn ein unrichtiger Ansatz folgerichtig weitergeführt wird, sei es, dass bei einer Rechenaufgabe ein unrichtiges Ergebnis bei der Lösung weiterer Rechenaufgaben eingesetzt und dadurch trotz des richtigen Rechenweges auch die weiteren Aufgaben unrichtig gelöst werden, oder sei es, dass bei einer unrichtigen Weichenstellung in einer sonstigen Arbeit danach ein folgerichtiger Lösungsweg beschritten wird.
 
 1.3 Hilfsmittel
-Bei der Navigationsaufgabe sind als Hilfsmittel ein Navigationsdreieck, ein Anlegedreieck, ein Doppellineal, ein Portland Plotter und ein Zirkel erlaubt. Andere Hilfsmittel, wie zum Beispiel Nachschlagewerke, auch elektronischer Art, dürfen bei der Beantwortung der Fragen nicht benutzt werden. Bei einem Täschungsversuch gilt die Prüfung als nicht bestanden. Das gilt auch für bereits erfolgreich durchgeführte Prüfungsteile. Der Vorsitzende der Prüfungskommission hat vor Beginn der Prüfung die Bewerber über die Folgen eines Täuschungsversuchs zu belehren. Die Prüfung ist von einem Mitglied der Prüfungskommission zu beaufsichtigen.
+Bei der Navigationsaufgabe sind als Hilfsmittel ein Navigationsdreieck, ein Anlegedreieck, ein Doppellineal, ein Portland Plotter und ein Zirkel erlaubt. Andere Hilfsmittel, wie zum Beispiel Nachschlagewerke, auch elektronischer Art, dürfen bei der Beantwortung der Fragen nicht benutzt werden. 
 
 2. Nachzuweisende Kenntnisse
 Durch die Prüfung ist der Nachweis über die folgenden Kenntnisse entsprechend dem zu prüfenden Geltungsbereich und der zu prüfenden Antriebsart zu erbringen:
 2.1 Basiskenntnisse
-2.1.1 Allgemeine Kenntnisse (für beide Geltungsbereiche)
+2.1.1 Allgemeine Kenntnisse (*für beide Geltungsbereiche*)
 - Grundbegriffe
 - allgemeine Ausweichregeln, Schallsignale und Lichterführung
 - allgemeine Gebots-, Verbots- und Schifffahrtszeichen
@@ -100,7 +99,7 @@ Durch die Prüfung ist der Nachweis über die folgenden Kenntnisse entsprechend 
 - Technik von Motorbooten:
 - Antriebsmotoren, Antriebswelle, Kraftstoffanlage, Ruderanlage, Fahrmanöver, Wirkung der Propellerdrehrichtung, Maschinenanlage, Betrieb von Außenbordmotoren, Schadstoffausstoß bei Bootsmotoren
 
-2.2 Kenntnisse im Geltungsbereich Binnenschifffahrtsstraßen
+2.2 Kenntnisse im Geltungsbereich **Binnen**schifffahrtsstraßen
 2.2.1 Kenntnisse der maßgebenden Vorschriften
 - Verkehrsregeln auf Binnenschifffahrtsstraßen, Rhein, Mosel und Donau
 - Signale, Gebots- und Verbotszeichen, Ausweichregeln, Lichterführung nach der Binnenschifffahrtsstraßen-Ordnung
@@ -123,7 +122,7 @@ Durch die Prüfung ist der Nachweis über die folgenden Kenntnisse entsprechend 
 - Trimmen der Segel und des Bootes, Segelmanöver
 - gesperrte Wasserflächen
 
-2.3 Kenntnisse im Geltungsbereich Seeschifffahrtsstraßen
+2.3 Kenntnisse im Geltungsbereich **See**schifffahrtsstraßen
 2.3.1 Kenntnisse der maßgebenden Vorschriften:
 - Seeschifffahrtsstraßen-Ordnung und Schifffahrtsordnung Emsmündung
 - nautischen Veröffentlichungen

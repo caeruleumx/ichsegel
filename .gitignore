@@ -1,7 +1,5 @@
 _drafts
 _courses
-assets/doodles
-assets/svg
 
 # Ruby Gem
 *.gem
@@ -29,3 +27,6 @@ _site
 # files that should not be tracked
 # for exp. i dont own the copyright
 ichsegel/_wiki/scheine/funk/resources
+
+assets/doodles
+assets/svg
