@@ -1,3 +1,9 @@
+---
+title: "Funkscheine (SRC & UBI)"
+permalink: /wiki/funk
+last_modified_at: 2025-05-10
+toc: true
+---
 NATO Alphabet Poster https://www.outsideopen.com/alphabet/
 
 SRC:

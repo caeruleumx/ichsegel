@@ -1,7 +1,6 @@
 ---
 title: "SKS Navigation"
-permalink: /guides/sks-navigation/
-last_modified_at: 2018-11-25T19:47:43-05:00
+permalink: /wiki/sks/navigation
 toc: true
 ---
 10 Bögen, die meist aus jeweils 18 Aufgaben bestehen.

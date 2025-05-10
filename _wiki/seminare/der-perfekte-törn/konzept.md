@@ -1,6 +1,6 @@
 ---
 title: "Der Perfekte Törn"
-permalink: /wiki/seminare/perfekter_törn/00-konzept
+permalink: /wiki/seminare/perfekter_törn/konzept
 last_modified_at: 2021-06-07T08:48:05-04:00
 toc: true
 ---

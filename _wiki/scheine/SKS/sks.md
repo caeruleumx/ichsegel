@@ -1,25 +1,14 @@
 ---
 title: "SKS"
-permalink: /guides/sks/
+permalink: /wiki/sks
 toc: true
 ---
 # SKS Allgemein
 <!-- TOC -->
 - [SKS Allgemein](#sks-allgemein)
-- [Theoriewissen (Fragenkatalog)](#theoriewissen-fragenkatalog)
-    - [Schifffahrtsrecht](#schifffahrtsrecht)
-    - [Wetterkunde](#wetterkunde)
-    - [Seemannschaft](#seemannschaft)
-    - [Navigation](#navigation)
-- [Arbeiten mit der Seekarte (Kartenaufgaben)](#arbeiten-mit-der-seekarte-kartenaufgaben)
-- [Praxis-Prüfung](#praxis-prüfung)
 - [DSV Durchführungsrichtlinien](#dsv-durchführungsrichtlinien)
-    - [Theoretische Prüfung](#theoretische-prüfung)
-        - [Kartenaufgabe:](#kartenaufgabe)
-        - [Fragenkatalog (492 Questions):](#fragenkatalog-492-questions)
-    - [Praxisprüfung](#praxisprüfung)
-        - [1 Pflichtaufgaben](#1-pflichtaufgaben)
-        - [2 Sonstige Aufgaben](#2-sonstige-aufgaben)
+  - [Theoretische Prüfung](#theoretische-prüfung)
+  - [Praktische Prüfung](#praktische-prüfung)
 <!-- /TOC -->
 
 Die Prüfung für den SKS-Befähigungsnachweis besteht aus 3 Teilen: 

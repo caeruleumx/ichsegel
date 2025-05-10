@@ -23,52 +23,49 @@ wiki:
       - title: "Packliste"
         url: /wiki/packliste/
       - title: "Auf dem Boot"
-        url: /wiki/auf-dem-boot/
+        url: /wiki/auf_dem_boot/
       - title: "Post Mortem"
-        url: /wiki/post-mortem/
+        url: /wiki/post_mortem/
   - title: "Seminare"
     children:
       - title: "Nach der SBF-Prüfung"
-        url: /wiki/seminare/nach-dem-sbf/
+        url: /wiki/seminare/nach_dem_sbf/
       - title: "Mitsegel 101"
-        url: /wiki/seminare/mitsegeln-101/
+        url: /wiki/seminare/mitsegeln_101/
   - title: Segelscheine
-    url: /wiki/scheine/einleitung/
+    url: /wiki/scheine/uebersicht/
     children:
       - title: "Segeln lernen"
-        url: /wiki/scheine/segeln-lernen/
+        url: /wiki/segeln_lernen/
       - title: "Segeln lehren"
-        url: /wiki/scheine/segeln-lehren/
+        url: /wiki/segeln_lehren/
   - title: SBF Binnen & See
-    url: /wiki/scheine/sbf/
+    url: /wiki/sbf/
     children:
       - title: "Navigation"
-        url: /wiki/scheine/sbf/sbf-kartenaufgaben/
+        url: /wiki/sbf/kartenaufgaben/
       - title: "Manöver Segeln"
-        url: /wiki/scheine/sbf/sbf-manoever-segeln/
+        url: /wiki/sbf/manoever-segeln/
       - title: "Manöver Motor"
-        url: /wiki/scheine/sbf/sbf-manoever-motor/
+        url: /wiki/sbf/manoever-motor/
   - title: SKS
-    url: /wiki/scheine/sks/
+    url: /wiki/sks/
     children:
       - title: "Fragenkatalog"
-        url: /wiki/scheine/sks/sks-fragenkatalog/
+        url: /wiki/sks/fragenkatalog/
       - title: "Navigation"
-        url: /wiki/scheine/sks/sks-navigation/
+        url: /wiki/sks/navigation/
       - title: "Praxis"
-        url: /wiki/scheine/sks/sks-praxis/
+        url: /wiki/sks/praxis/
   - title: Funk (SRC & UBI)
-    url: /wiki/scheine/funk/
+    url: /wiki/funk/
     children:
       - title: "Prüfung"
-        url: /wiki/scheine/funk/funk-pruefung/  
+        url: /wiki/funk/pruefung/  
       - title: "Realität"
-        url: /wiki/scheine/funk/funk-realitaet/  
+        url: /wiki/funk/realitaet/  
   - title: Pyroschein (FKN)
-    url: /wiki/scheine/pyro/
-    children:
-      - title: "Handling & Bedienung"
-        url: /wiki/scheine/pyro-handling/
+    url: /wiki/pyro/
   - title: Weiteres
     children:
       - title: "Tips & Tricks"

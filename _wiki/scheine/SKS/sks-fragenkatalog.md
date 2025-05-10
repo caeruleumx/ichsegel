@@ -1,7 +1,6 @@
 ---
 title: "SKS Fragenkatalog"
-permalink: /guides/sks-fragenkatalog/
-last_modified_at: 2018-11-25T19:46:43-05:00
+permalink: /wiki/sks/fragenkatalog
 toc: true
 ---
 

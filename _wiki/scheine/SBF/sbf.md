@@ -1,7 +1,6 @@
 ---
 title: "SBF Allgemein"
-permalink: /guides/sbf/
-last_modified_at: 2020-08-30T21:27:40-04:00
+permalink: /wiki/sbf/
 toc: true
 ---
 # Allgemein
