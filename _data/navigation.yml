@@ -1,59 +1,14 @@
 
 # main links
 main:
-  - title: "Segeln lernen"
-    url: /guides/einleitung/
+#  - title: "Segeln lernen"
+#    url: /splash-page/
   - title: "Wissenssammlung"
     url: /wiki/einleitung/
   - title: "Berichte"
     url: /year-archive/
   - title: "About"
     url: /about/
-
-# documentation links
-guides:
-  - title: Übersicht
-    url: /guides/einleitung/
-    children:
-      - title: "Segeln lernen"
-        url: /guides/segeln_lernen/
-      - title: "Segeln lehren"
-        url: /guides/segeln_lehren/
-  - title: SBF Binnen & See
-    url: /guides/sbf/
-    children:
-      - title: "Navigation"
-        url: /guides/sbf-kartenaufgaben/
-      - title: "Manöver Segeln"
-        url: /guides/sbf-manoever-segeln/
-      - title: "Manöver Motor"
-        url: /guides/sbf-manoever-motor/
-      - title: "Nach dem SBF"
-        url: /guides/nach-dem-sbf/
-  - title: SKS
-    url: /guides/sks/
-    children:
-      - title: "Fragenkatalog"
-        url: /guides/sks-fragenkatalog/
-      - title: "Navigation"
-        url: /guides/sks-navigation/
-      - title: "Praxis"
-        url: /guides/sks-praxis/
-  - title: Funk (SRC & UBI)
-    url: /guides/funk/
-    children:
-      - title: "Prüfung"
-        url: /guides/funk-pruefung/  
-      - title: "Realität"
-        url: /guides/funk-realitaet/  
-  - title: Pyroschein (FKN)
-    url: /guides/pyro/
-    children:
-      - title: "Handling & Bedienung"
-        url: /guides/pyro-handling/
-  - title: "Mitsegeln 101"
-    url: /wiki/mitsegeln-101/
-
 
 # wiki links
 wiki:
@@ -71,6 +26,49 @@ wiki:
         url: /wiki/auf-dem-boot/
       - title: "Post Mortem"
         url: /wiki/post-mortem/
+  - title: "Seminare"
+    children:
+      - title: "Nach der SBF-Prüfung"
+        url: /wiki/seminare/nach-dem-sbf/
+      - title: "Mitsegel 101"
+        url: /wiki/seminare/mitsegeln-101/
+  - title: Segelscheine
+    url: /wiki/scheine/einleitung/
+    children:
+      - title: "Segeln lernen"
+        url: /wiki/scheine/segeln-lernen/
+      - title: "Segeln lehren"
+        url: /wiki/scheine/segeln-lehren/
+  - title: SBF Binnen & See
+    url: /wiki/scheine/sbf/
+    children:
+      - title: "Navigation"
+        url: /wiki/scheine/sbf/sbf-kartenaufgaben/
+      - title: "Manöver Segeln"
+        url: /wiki/scheine/sbf/sbf-manoever-segeln/
+      - title: "Manöver Motor"
+        url: /wiki/scheine/sbf/sbf-manoever-motor/
+  - title: SKS
+    url: /wiki/scheine/sks/
+    children:
+      - title: "Fragenkatalog"
+        url: /wiki/scheine/sks/sks-fragenkatalog/
+      - title: "Navigation"
+        url: /wiki/scheine/sks/sks-navigation/
+      - title: "Praxis"
+        url: /wiki/scheine/sks/sks-praxis/
+  - title: Funk (SRC & UBI)
+    url: /wiki/scheine/funk/
+    children:
+      - title: "Prüfung"
+        url: /wiki/scheine/funk/funk-pruefung/  
+      - title: "Realität"
+        url: /wiki/scheine/funk/funk-realitaet/  
+  - title: Pyroschein (FKN)
+    url: /wiki/scheine/pyro/
+    children:
+      - title: "Handling & Bedienung"
+        url: /wiki/scheine/pyro-handling/
   - title: Weiteres
     children:
       - title: "Tips & Tricks"

@@ -135,9 +135,6 @@ kramdown:
 
 # Collections
 collections:
-  guides:
-    output: true
-    permalink: /:collection/:path/
   wiki:
     output: true
     permalink: /:collection/:path/
@@ -163,19 +160,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _guides
-  - scope:
-      path: ""
-      type: guides
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      toc_sticky: true
-      sidebar:
-        nav: "guides"
   # _wiki
   - scope:
       path: ""

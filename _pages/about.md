@@ -16,23 +16,26 @@ toc: true
 ---
 # Über mich
 Moin, ich bin Benedikt 👋🏻.<br>
-Das Segeln hat mich in seinen Bann gezogen, auch wenn ich noch mitten im Lernprozess stecke. Jeder Törn, jedes Manöver und jede neue Erfahrung bringen mich weiter.<br>
-*Bisher gesammelte Zeit auf dem Wasser:* 279,18SM*<br>
-\* Ohne Seemeilen von Ausbildungszeit, Tagesausflüge (Vereins-Jolle) und Regatten – da fehlt noch einiges in der Rechnung!
+Das Segeln hat mich in seinen Bann gezogen, auch wenn ich noch mitten im Lernprozess stecke. Jeder Törn, jedes Manöver und jede neue Erfahrung bringen mich weiter.
+
+Bisher gesammelte Zeit auf dem Wasser: 279,18SM* <br>
+\* Ohne Seemeilen von Ausbildungszeit, Tagesausflüge (Vereins-Jolle) und Regatten – da fehlt noch einiges in der Rechnung!*
 
 ## Über diese Website
 Hier sammle ich meine Notizen rund ums Segeln – ein persönliches Logbuch und Nachschlagewerk zugleich.<br>
-Die Inhalte sind in zwei Hauptbereiche unterteilt:
+Die Inhalte sind in drei Hauptbereiche unterteilt:
 
-### Berichte/Notizen
-- Basieren auf persönlichen Erfahrungen von Törns, Events, Seminaren, Gesprächen usw.
-- Oft mit einem konkreten Datum verknüpft  (z.b. 04.05.24)
+### Segeln lernen
+- Alles was man für die Segelscheine wissen muss
+- Auch für unerfahrene Mitsegeler ("Leien") gibts einen Guide
 
-### Wiki
-- Theorie-Wissen
+### Wissenssammlung (wiki)
+- Wissen das ich durch Erfahrungen gesammelt habe (Chartern, Törnplanung, Auf dem Boot, ...)
 - Können sich mit der Zeit weiter entwickeln, aufgrund neuer Erkentnissen.
-- Teil 1: Segeln lernen & Segeln lehren
-- Teil 2: Wissen das ich durch Erfahrungen gesammelt habe (Chartern, Törnplanung, Auf dem Boot, ...)
+
+### Berichte
+- meine Mitschriften und Notizen zu Törns, Events, Seminaren, Gesprächen usw.
+- Oft mit einem konkreten Datum verknüpft  (z.b. 04.05.24)
 
 ---
 
