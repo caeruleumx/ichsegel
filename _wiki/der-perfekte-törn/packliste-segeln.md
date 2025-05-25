@@ -46,7 +46,7 @@ bedingt
 ## fix shit
 - Segelmesser
 - kabelbinder 10 stk	
-- iso tape
+- iso tape, panzer tape(?)
 - bändsel (viele), paracord
 
 ## snack-box

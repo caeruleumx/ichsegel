@@ -116,12 +116,12 @@ herbst/kalt
 - vivabro barfußstiefel
 
 ## Erste Hilfe, Boardapotheke
-+ edc-IFAK (s.o.)
 IFAK (Individual First Aid Kit)
 
 Erste Hilfe taschen
 - klein (1L seesack)
 - "groß" (Tatonka First Aid S)
+- plus [edc-IFAK (s.o.)](#on-body)
 
 allgemein
 - pflaster

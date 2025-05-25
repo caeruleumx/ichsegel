@@ -17,4 +17,4 @@ toc: true
 ## fürs (chater-)boot
 - handyhalterung metallrohr, saugnopf
 - DIY wassertiefen logge zum prüfen der tiefenmesser auf chaterboot[link]
-    - schnur mit gewicht + bogenschießen nocks
+    - schnur mit gewicht + bogenschießen nocks für markierungen
