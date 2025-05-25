@@ -1,15 +1,9 @@
 ---
-title: "SKS"
+title: "SKS Allgemein"
 permalink: /wiki/sks
 toc: true
 ---
-# SKS Allgemein
-<!-- TOC -->
-- [SKS Allgemein](#sks-allgemein)
-- [DSV Durchführungsrichtlinien](#dsv-durchführungsrichtlinien)
-  - [Theoretische Prüfung](#theoretische-prüfung)
-  - [Praktische Prüfung](#praktische-prüfung)
-<!-- /TOC -->
+
 
 Die Prüfung für den SKS-Befähigungsnachweis besteht aus 3 Teilen: 
 - Theorie
@@ -18,7 +12,6 @@ Die Prüfung für den SKS-Befähigungsnachweis besteht aus 3 Teilen:
 - Praxis-Prüfung
     - Manöver
     - Theorie unter Deck
-----------------------------
 
 # DSV Durchführungsrichtlinien
 Voraussetzungen

@@ -13,41 +13,46 @@ main:
 # wiki links
 wiki:
   - title: Rund um den Törn
+    url: /wiki/perfekter-törn/
     children:
       - title: "Törnplanung"
-        url: /wiki/toernplanung/
-      - title: "Chartern"
-        url: /wiki/chartern/
-      - title: "Versicherungen"
-        url: /wiki/versicherungen/
+        url: /wiki/perfekter-törn/törnplanung
+      #- title: "Chartern"
+      #  url: /wiki/perfekter_törn/
+      #- title: "Versicherungen"
+      #  url: /wiki/perfekter_törn/
       - title: "Packliste"
-        url: /wiki/packliste/
+        url: /wiki/perfekter-törn/packliste
+      - title: "Packliste Segeln"
+        url: /wiki/perfekter-törn/packliste-segeln
+      - title: "Essensplan"
+        url: /wiki/perfekter-törn/essensplan
       - title: "Auf dem Boot"
-        url: /wiki/auf_dem_boot/
+        url: /wiki/perfekter-törn/auf-dem-boot
       - title: "Post Mortem"
-        url: /wiki/post_mortem/
+        url: /wiki/perfekter-törn/post-mortem
   - title: "Seminare"
     children:
-      - title: "Nach der SBF-Prüfung"
-        url: /wiki/seminare/nach_dem_sbf/
+      - title: "Nach der Prüfung"
+        url: /wiki/seminare/nach-dem-schein/
       - title: "Mitsegel 101"
-        url: /wiki/seminare/mitsegeln_101/
+        url: /wiki/seminare/mitsegeln-101/
   - title: Segelscheine
-    url: /wiki/scheine/uebersicht/
+    url: /wiki/scheine/übersicht/
     children:
       - title: "Segeln lernen"
-        url: /wiki/segeln_lernen/
+        url: /wiki/segeln-lernen/
       - title: "Segeln lehren"
-        url: /wiki/segeln_lehren/
+        url: /wiki/segeln-lehren/
   - title: SBF Binnen & See
     url: /wiki/sbf/
     children:
       - title: "Navigation"
         url: /wiki/sbf/kartenaufgaben/
       - title: "Manöver Segeln"
-        url: /wiki/sbf/manoever-segeln/
+        url: /wiki/sbf/manöver-segeln/
       - title: "Manöver Motor"
-        url: /wiki/sbf/manoever-motor/
+        url: /wiki/sbf/manöver-motor/
   - title: SKS
     url: /wiki/sks/
     children:

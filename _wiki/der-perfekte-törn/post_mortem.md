@@ -1,6 +1,6 @@
 ---
 title: "Post Mortem (Nachbesprechung)"
-permalink: /wiki/seminare/perfekter_törn/post-mortem
+permalink: /wiki/perfekter-törn/post-mortem
 last_modified_at: 2021-05-11T10:22:55-04:00
 ---
 

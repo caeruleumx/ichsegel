@@ -1,6 +1,6 @@
 ---
 title: "SBF Allgemein"
-permalink: /wiki/scheine/uebersicht
+permalink: /wiki/scheine/übersicht
 toc: true
 ---
 # Scheine

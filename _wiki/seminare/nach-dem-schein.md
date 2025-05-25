@@ -1,9 +1,14 @@
 ---
-title: "Was kommt nach dem SBF?"
-permalink: /wiki/seminare/nach-dem-sbf/
-last_modified_at: 2018-09-10T12:33:24-04:00
+title: "Was kommt nach dem Schein?"
+permalink: /wiki/seminare/nach-dem-schein/
+#last_modified_at: 2018-09-10T12:33:24-04:00
 toc: true
 ---
+{% if page.last_modified_at != page.date %}
+Dieser Artikel wurde zuletzt am {{ page.last_modified_at | date: "%d-%m-%Y" }} bearbeitet.
+{% endif %}
+
+INFO-Talk
 
 Erfahrung sammeln:
 - boote mieten

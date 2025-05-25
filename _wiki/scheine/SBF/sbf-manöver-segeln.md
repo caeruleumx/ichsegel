@@ -1,6 +1,6 @@
 ---
 title: "SBF Praxis Segeln"
-permalink: /wiki/sbf/manoever-segeln
+permalink: /wiki/sbf/manöver-segeln
 last_modified_at: 2016-11-03T11:13:12-04:00
 toc: true
 ---

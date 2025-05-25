@@ -1,7 +1,6 @@
 ---
 title: "Auf dem Boot"
-permalink: /wiki/seminare/perfekter_törn/auf-dem-boot
-last_modified_at: 2018-03-20T15:59:40-04:00
+permalink: /wiki/perfekter-törn/auf-dem-boot
 toc: true
 ---
 

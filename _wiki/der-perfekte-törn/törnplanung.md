@@ -1,6 +1,6 @@
 ---
 title: "Törnplanung"
-permalink: /wiki/seminare/perfekter_törn/toernplanung
+permalink: /wiki/perfekter-törn/törnplanung
 last_modified_at: 2024-04-23T00:43:19+08:00
 toc: true
 ---
@@ -67,7 +67,7 @@ Fokus: Von A nach B bekommen
         - echte (bsp: piteryachting)
     - private Eigner?
 - beiboot (motor)/SUP/Kayak dazu buchen?
-siehe "Chartern"
+
 ------------
 
 Das Chartern eines Bootes funktioniert im Prinzip ähnlich wie das Mieten eines Autos – doch mit ein paar Besonderheiten, die es zu beachten gibt.<br>
@@ -128,8 +128,6 @@ Nicht jedes Boot ist für jeden Zweck gleich gut geeignet. Überlege dir vorab, 
 Falls du dich noch tiefer mit dem Thema befassen möchtest, lohnt sich ein Blick auf meine Mitschrift des **Charter-Seminars von der boot 2024**.
 
 👉 **Hast du schon mal ein Boot gechartert?** Teile deine Erfahrungen und Tipps in den Kommentaren! ⛵️
-
-
 
 ## An-& Abreise planen
 - auto/zug/flug?

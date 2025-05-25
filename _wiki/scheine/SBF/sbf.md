@@ -3,7 +3,6 @@ title: "SBF Allgemein"
 permalink: /wiki/sbf/
 toc: true
 ---
-# Allgemein
 Der SBF ist International anerkannt, d.h. er ist auch in Frankreich, Italien, Mittelmeer gültig.
 Der SBF ist geteilt in zwei Geltungsbereiche: Binnen und See. 
 

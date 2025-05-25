@@ -1,6 +1,6 @@
 ---
 title: "Segeln Lehren"
-permalink: /wiki/segeln_lehren/
+permalink: /wiki/segeln-lehren/
 toc: true
 ---
 # Kurse

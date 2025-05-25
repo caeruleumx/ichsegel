@@ -16,7 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
 #gem "minimal-mistakes-jekyll", :github => "mmistakes/minimal-mistakes"
-
+gem 'jekyll-last-modified-at' # to show the last modified date of a Jekyll page based on Git history
 gem "tzinfo-data"
 
 
